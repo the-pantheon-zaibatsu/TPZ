@@ -1,0 +1,1 @@
+TPZ V4 — Upload index.html, styles.css, script.js and assets/ to the repository root. Preserve the existing CNAME file and GitHub Pages settings. Original crest is preserved in assets/crest-original.png; the gold version changes color only. All homepage text and navigation are live HTML. The coast is separate artwork. Existing archive routes are retained.
